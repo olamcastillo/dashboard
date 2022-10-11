@@ -56,7 +56,7 @@ const Ecommerce = () => {
 				</div>
 			</div>
 			
-			<div className='flex gap-10 flex-wrap justify-center'>
+			<div className='flex gap-10 flex-wrap justify-center lg:mt-20 md:mt-5'>
 				<div className='bg-white dark:text-gray-200 dark:bg-secondary-dark-bg m3 p-4 rounded-2xl md:w-780'>
 					<div className='flex justify-between'>
 						<p className='font-semibold text-xl'>Revenue Updates</p>
@@ -111,6 +111,7 @@ const Ecommerce = () => {
 							height='360px'/>
 						</div>
 					</div>
+
 				</div>
 			</div>
 		</div>
